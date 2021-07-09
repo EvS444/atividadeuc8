@@ -1,0 +1,16 @@
+<?php
+    session_start();
+    if(!iseet($_SESSION['id_usuario']))
+    {
+        header("location: Login.cshtml");
+        exit;
+    }
+
+
+?>
+
+
+
+SEJA BEM VINDO! aceita esse trabalho por favor, negócio difícil em
+</br>
+<a href="sair.cshtml"> Sair </a>

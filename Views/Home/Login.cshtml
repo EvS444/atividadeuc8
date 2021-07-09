@@ -1,0 +1,45 @@
+<?php
+require_once 'classes/usuarios.cshtml';
+$u = new Usuario;
+?>
+
+<!DOCTYPE html>
+<html lang="pt-br" dir="ltr">
+    <head>
+        <meta charset="UTF-8">
+        <title>Login</title>
+        <link rel="stylesheet" type="text/css" href="/css/style.css">
+
+        <script language="javascript" type="text/javascript">
+        function validar() {
+
+            var usuario = form1.usuario.value;
+            var senha = form1.senha.value;
+
+            if (usuario == "") {
+            alert('Preencha o campo com seu nome');
+            form1.usuario.focus();
+            return false;
+            }
+
+            if (senha == "") {
+                alert('Preencha o campo com sua senha');
+                form1.senha.value;
+            }
+
+        }
+        </script>
+    </head>
+    <body>
+
+            <form name="form1"  class="box" action="" method="post">
+            <h1>Login</h1>
+            <input type="text" name="usuario" placeholder="Usuário">
+            <input type="password" name="senha" placeholder="Senha">
+            <input  type="submit" onclick="return validar()" value="Acessar">
+            <a href="cadastrar">Ainda não é inscrito?<strong>Cadastre-se!</strong></a>
+            </form>
+            
+            
+    </body>
+</html>

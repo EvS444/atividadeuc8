@@ -1,0 +1,129 @@
+C:\Users\User\freemusic\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\freemusic\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\freemusic\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\freemusic\bin\Debug\netcoreapp3.1\freemusic.exe
+C:\Users\User\freemusic\bin\Debug\netcoreapp3.1\freemusic.deps.json
+C:\Users\User\freemusic\bin\Debug\netcoreapp3.1\freemusic.runtimeconfig.json
+C:\Users\User\freemusic\bin\Debug\netcoreapp3.1\freemusic.runtimeconfig.dev.json
+C:\Users\User\freemusic\bin\Debug\netcoreapp3.1\freemusic.dll
+C:\Users\User\freemusic\bin\Debug\netcoreapp3.1\freemusic.pdb
+C:\Users\User\freemusic\bin\Debug\netcoreapp3.1\freemusic.Views.dll
+C:\Users\User\freemusic\bin\Debug\netcoreapp3.1\freemusic.Views.pdb
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\freemusic.csprojAssemblyReference.cache
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\freemusic.AssemblyInfoInputs.cache
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\freemusic.AssemblyInfo.cs
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\freemusic.csproj.CoreCompileInputs.cache
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\freemusic.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\freemusic.RazorAssemblyInfo.cache
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\freemusic.RazorAssemblyInfo.cs
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\freemusic.TagHelpers.input.cache
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\freemusic.TagHelpers.output.cache
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\freemusic.RazorCoreGenerate.cache
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\FaleConosco.cshtml.g.cs
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\Finalizado.cshtml.g.cs
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\Quemsomos.cshtml.g.cs
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\freemusic.RazorTargetAssemblyInfo.cache
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\freemusic.RazorTargetAssemblyInfo.cs
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\freemusic.Views.pdb
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\staticwebassets\freemusic.StaticWebAssets.Manifest.cache
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\staticwebassets\freemusic.StaticWebAssets.xml
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\freemusic.dll
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\freemusic.pdb
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\freemusic.genruntimeconfig.cache
+C:\Users\User\freemusic\obj\Debug\netcoreapp3.1\freemusic.csproj.CopyComplete
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\bin\Debug\netcoreapp3.1\freemusic.exe
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\bin\Debug\netcoreapp3.1\freemusic.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\bin\Debug\netcoreapp3.1\freemusic.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\bin\Debug\netcoreapp3.1\freemusic.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\bin\Debug\netcoreapp3.1\freemusic.dll
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\bin\Debug\netcoreapp3.1\freemusic.pdb
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\bin\Debug\netcoreapp3.1\freemusic.Views.dll
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\bin\Debug\netcoreapp3.1\freemusic.Views.pdb
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\freemusic.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\freemusic.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\freemusic.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\freemusic.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\freemusic.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\freemusic.RazorAssemblyInfo.cache
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\freemusic.RazorAssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\freemusic.TagHelpers.input.cache
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\freemusic.TagHelpers.output.cache
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\freemusic.RazorCoreGenerate.cache
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\Finalizado.cshtml.g.cs
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\freemusic.RazorTargetAssemblyInfo.cache
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\freemusic.RazorTargetAssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\freemusic.Views.pdb
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\staticwebassets\freemusic.StaticWebAssets.Manifest.cache
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\staticwebassets\freemusic.StaticWebAssets.xml
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\freemusic.dll
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\freemusic.pdb
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\freemusic.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\freemusic.csproj.CopyComplete
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\Midia.cshtml.g.cs
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\Playlists.cshtml.g.cs
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\AreaPrivada.cshtml.g.cs
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\cadastrar.cshtml.g.cs
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\classes\usuarios.cshtml.g.cs
+C:\Users\User\OneDrive\Área de Trabalho\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\sair.cshtml.g.cs
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\bin\Debug\netcoreapp3.1\freemusic.exe
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\bin\Debug\netcoreapp3.1\freemusic.deps.json
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\bin\Debug\netcoreapp3.1\freemusic.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\bin\Debug\netcoreapp3.1\freemusic.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\bin\Debug\netcoreapp3.1\freemusic.dll
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\bin\Debug\netcoreapp3.1\freemusic.pdb
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\bin\Debug\netcoreapp3.1\freemusic.Views.dll
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\bin\Debug\netcoreapp3.1\freemusic.Views.pdb
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\freemusic.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\freemusic.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\freemusic.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\freemusic.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\freemusic.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\freemusic.RazorAssemblyInfo.cache
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\freemusic.RazorAssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\freemusic.TagHelpers.input.cache
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\freemusic.TagHelpers.output.cache
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\freemusic.RazorCoreGenerate.cache
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\AreaPrivada.cshtml.g.cs
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\cadastrar.cshtml.g.cs
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\classes\usuarios.cshtml.g.cs
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\Finalizado.cshtml.g.cs
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\Midia.cshtml.g.cs
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\Playlists.cshtml.g.cs
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Home\sair.cshtml.g.cs
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\freemusic.RazorTargetAssemblyInfo.cache
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\freemusic.RazorTargetAssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\freemusic.Views.pdb
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\staticwebassets\freemusic.StaticWebAssets.Manifest.cache
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\staticwebassets\freemusic.StaticWebAssets.xml
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\freemusic.dll
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\freemusic.pdb
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\freemusic.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\Curso Técnico\freemusic\obj\Debug\netcoreapp3.1\freemusic.csproj.CopyComplete

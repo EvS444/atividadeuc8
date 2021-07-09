@@ -1,0 +1,66 @@
+<?php
+    require_once 'classes/usuarios.cshtml';
+    $u = new Usuario;
+?>
+
+<!DOCTYPE html>
+<html lang="pt-br" dir="ltr">
+    <head>
+        <meta charset="UTF-8">
+        <title>Cadastrar</title>
+        <link rel="stylesheet" type="text/css" href="/css/style.css">
+
+        <script language="javascript" type="text/javascript">
+        function validar() {
+
+            var usuario = form1.usuario.value;
+            var senha = form1.senha.value;
+            var rep_senha = form1.rep_senha.value;
+            var telefone = form1.telefone.value;
+            var email = form1.email.value;
+
+            if (usuario == "") {
+            alert('Preencha o campo com seu nome');
+            form1.usuario.focus();
+            return false;
+            }
+
+            if (telefone == "") {
+                alert('Preencha o campo com seu telefone');
+                form1.telefone.focus();
+            }
+
+            if (email == "") {
+                alert('Preencha o campo com seu email');
+                form1.email.value;
+            }
+
+
+            if (senha == "") {
+                alert('Preencha o campo com sua senha');
+                form1.senha.value;
+            }
+
+            if (senha != rep_senha) {
+                alert('Senhas diferentes');
+                form1.senha.focus();
+                return false;
+            }
+
+        }
+        </script>
+    </head>
+    <body>
+
+        <form name="form1" class="box" action="" method="post">
+            <h1>Cadastrar</h1>
+            <input type="text" name="usuario" placeholder="Nome Completo">
+            <input type="text" name="telefone" placeholder="Telefone">
+            <input type="text" name="email" placeholder="Email">
+            <input type="password" name="senha" placeholder="Senha">
+            <input type="password" name="rep_senha" placeholder="Confirmar Senha">
+            <input  type="submit" onclick="return validar()" value="Cadastrar">
+            </form>
+    </body>
+    
+</html>
